@@ -1,0 +1,54 @@
+body{
+    background-image: url(parchment.jpg);
+    background-size: cover;
+}
+
+.main{
+    font-family: 'Mountains of Christmas', cursive;
+    width: 80%;
+    height: 80%;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#logo{
+    text-align: center;
+}
+
+#local-data{
+    font-size: 40px;
+    text-align: center;
+}
+
+#conteudo{
+    font-size: 30px;
+    text-align: justify;
+}
+
+#referencia{
+    font-size: 30px;
+    text-align: right;
+}
+
+#signature{
+    font-family: 'Caveat', cursive;
+    font-size: 50px;
+    text-align: left;
+}
+
+a{
+    text-decoration: none;
+    background-color: rgb(8, 8, 0);
+    color: rgb(240, 239, 208);
+    border: 1px solid rgb(60, 63, 30);
+    border-radius: 3px;
+    padding: 10px 20px;
+    font-family: 'Mountains of Christmas';
+    font-weight: 700;
+    float:right
+}
+a:hover{
+    background-color: rgb(76, 76, 69);
+    color:rgb(240, 239, 208);
+}
